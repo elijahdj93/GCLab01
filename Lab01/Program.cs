@@ -17,6 +17,7 @@ namespace Lab01
                 double length;
                 double width;
 
+                Console.WriteLine("Length and width calculator!");
                 Console.WriteLine("Enter length:");
                 length = double.Parse(Console.ReadLine());
                 Console.WriteLine("Enter width:");
